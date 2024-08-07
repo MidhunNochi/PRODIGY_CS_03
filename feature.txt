@@ -1,0 +1,7 @@
+##----------------------------------- Features ---------------------------------------#
+
+- Password Length Check     : Ensures the password is at least 8 characters long.
+- Uppercase Letter Check    : Ensures the password contains at least one uppercase letter.
+- Lowercase Letter Check    : Ensures the password contains at least one lowercase letter.
+- Number Check              : Ensures the password contains at least one number.
+- Special Character Check   : Ensures the password contains at least one special character.
