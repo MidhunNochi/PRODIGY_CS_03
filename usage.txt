@@ -1,3 +1,8 @@
+CLONE THIS REPOSITORY 
+
+                    git clone https://github.com/MidhunNochi/PRODIGY_CS_03.git
+
+
 ##--------------------------------------- Usage ------------------------------------------------##
 
 1. Open a terminal and navigate to the directory where `passcheck.py` is located.
